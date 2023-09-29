@@ -1,0 +1,13 @@
+.head {
+    width: 100%;
+    height: 5vh;
+    background-color: #48f0ff;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1rem;
+
+}
+.head .title {
+    font-size: 2rem;
+}
